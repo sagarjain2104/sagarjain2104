@@ -9,7 +9,7 @@
 - Love to solve puzzles
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjain2104&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjain2104&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjain2104&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
