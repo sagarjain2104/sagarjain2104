@@ -9,12 +9,12 @@
 - Love to solve puzzles
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjain2104&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 <!---
-AmanAdastra/AmanAdastra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sagarjain2104/sagarjain2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
